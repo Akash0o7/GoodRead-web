@@ -1,0 +1,208 @@
+.bg {
+  background: linear-gradient(180deg, #ffb154 0%, #fff 20.07%);
+  
+}
+.search {
+  width: 24%;
+  height: 3vw;
+  border-radius: 1vw;
+  border: 2px solid #1d0a03;
+  background: rgba(252, 250, 239, 0.8);
+  backdrop-filter: blur(43px);
+  position: relative;
+  top: 1.7vw;
+}
+.nav {
+  color: #1d0a03;
+  font-family: lexend deca;
+  font-size: 2vw;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+#user {
+  width: 4.5vw;
+  height: 4.5vw;
+  position: relative;
+  top: 1vw;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.3vw;
+}
+
+.gr2 {
+  color: rgba(29, 10, 3, 0);
+  font-family: Goldman;
+  font-size: 11vw;
+  font-style: normal;
+  font-weight: 350;
+  line-height: normal;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: rgba(29, 10, 3, 0.65);
+  text-align: center;
+  position: relative;
+  top: -13vw;
+}
+.gr1 {
+  color: #1d0a03;
+  font-family: Goldman;
+  font-size: 11vw;
+  font-style: normal;
+  font-weight: 350;
+  line-height: normal;
+  text-align: center;
+  position: relative;
+  top: -28vw;
+}
+.gr3 {
+  color: rgba(29, 10, 3, 0);
+  font-family: Goldman;
+  font-size: 11vw;
+  font-style: normal;
+  font-weight: 350;
+  line-height: normal;
+  -webkit-text-stroke-width: 2.5px;
+  -webkit-text-stroke-color: rgba(29, 10, 3, 0.65);
+  text-align: center;
+  position: relative;
+  top: -43vw;
+}
+
+.books {
+  width: 100%;
+  position: relative;
+  top: -87vw;
+}
+.qustn {
+  color: #000;
+  font-family: Lexend Deca;
+  font-size: 2.5vw;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.answer {
+  color: #000;
+  font-family: Lexend Deca;
+  font-size: 2vw;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 131%;
+}
+.q1 {
+  width: 80%;
+  position: relative;
+  top: -87vw;
+  left: 4vw;
+}
+.q2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  position: relative;
+  top: -87vw;
+  right: 1vw;
+}
+.hr {
+  position: relative;
+  top: -87vw;
+}
+.n1 {
+  position: relative;
+  top: -87vw;
+  left: 4vw;
+  width: 50%;
+}
+.b1 {
+  position: relative;
+  left: -10px;
+  width: 12vw;
+  height: 18vw;
+}
+.n2 {
+  position: relative;
+  top: -118vw;
+  left: 52%;
+  width: 40%;
+}
+.b2 {
+  position: relative;
+  top: -5px;
+  width: 35vw;
+  height: 19vw;
+}
+.hr2 {
+  position: relative;
+  top: -119vw;
+}
+#a1 {
+  position: relative;
+  top: -119vw;
+  left: 4vw;
+  width: 20%;
+}
+.albert {
+  position: relative;
+  top: -119vw;
+  left: 4vw;
+  width: 8vw;
+  height: 8vw;
+}
+#a2 {
+  position: relative;
+  top: -128vw;
+  left: 14vw;
+  width: 60%;
+}
+#a3 {
+  position: relative;
+  top: -126vw;
+  left: 4vw;
+  width: 70%;
+}
+.footer {
+  position: relative;
+  top: -126vw;
+  background: #ececec;
+  height: 33vw;
+}
+.fo1 {
+  position: relative;
+  top: 5vw;
+  left: 4vw;
+  width: 33%;
+}
+.fo2 {
+  position: relative;
+  top: -19.5vw;
+  left: 30vw;
+  width: 33%;
+}
+.apple {
+  position: relative;
+  left: 65vw;
+  top: -43vw;
+  width: 20%;
+}
+.android{
+  position: relative;
+  left: 45vw;
+  top: -35vw;
+  width: 20%;
+}
+.copy{
+  position: relative;
+  top: -35vw;
+  width: 25%;
+  left: 65.5vw;
+}
+.cp{
+  color: #000;
+  font-family: Lexend Deca;
+  font-size: 1.5vw;
+  font-style: normal;
+  font-weight: 100;
+}
